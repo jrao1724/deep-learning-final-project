@@ -2,6 +2,11 @@
 
 Please find our project development, experimental dataset, and final report in this repository.
 
+**Completed by:**
+- Jayanth Rao – jr6594
+- Joshua Alfred Jayapal – jj3811
+- Adel del Valle – ad7082
+
 ### Dataset:
 
 - [Real faces derived from NVIDIA's FFHQ Dataset](https://drive.google.com/drive/folders/1oSKcCB0Y0Ss3o6Gs5gprBSIBE0Zd0UNX?usp=sharing)
