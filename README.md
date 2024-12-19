@@ -14,4 +14,6 @@ Please find our project development, experimental dataset, and final report in t
 
 ### Experimentation:
 
-Project experimentation can be found in ??INSERT LINK TO FILE HERE??
+The preprocessing and CNN model training for images transformed into the spectral domain can be found here: [Spectral Domain CNN](https://github.com/jrao1724/deep-learning-final-project/blob/main/DL_Project_Notebook_spectral.ipynb)
+
+The CNN model trained on the raw images' spatial features can be found here: [Spatial Domain CNN](https://github.com/jrao1724/deep-learning-final-project/blob/main/DL_Project_Notebook_spatial.ipynb)
